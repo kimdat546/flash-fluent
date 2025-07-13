@@ -1,0 +1,102 @@
+[
+  {
+    "id": "word_001",
+    "word": "serendipity",
+    "pronunciation": "/ˌserənˈdipədē/",
+    "definition": "The occurrence of events by chance in a happy or beneficial way",
+    "example": "Finding that book was pure serendipity - it had exactly the information I needed.",
+    "difficulty": "advanced",
+    "category": "nouns",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word_002",
+    "word": "ephemeral",
+    "pronunciation": "/əˈfem(ə)rəl/",
+    "definition": "Lasting for a very short time",
+    "example": "The beauty of cherry blossoms is ephemeral, lasting only a few weeks.",
+    "difficulty": "advanced",
+    "category": "adjectives",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word_003",
+    "word": "ubiquitous",
+    "pronunciation": "/yo͞oˈbikwədəs/",
+    "definition": "Present, appearing, or found everywhere",
+    "example": "Smartphones have become ubiquitous in modern society.",
+    "difficulty": "intermediate",
+    "category": "adjectives",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word_004",
+    "word": "meticulous",
+    "pronunciation": "/məˈtikyələs/",
+    "definition": "Showing great attention to detail; very careful and precise",
+    "example": "She was meticulous in her research, checking every source twice.",
+    "difficulty": "intermediate",
+    "category": "adjectives",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word_005",
+    "word": "articulate",
+    "pronunciation": "/ärˈtikyələt/",
+    "definition": "Having or showing the ability to speak fluently and coherently",
+    "example": "He was very articulate in explaining the complex theory.",
+    "difficulty": "intermediate",
+    "category": "adjectives",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word_006",
+    "word": "resilient",
+    "pronunciation": "/rəˈzilyənt/",
+    "definition": "Able to withstand or recover quickly from difficult conditions",
+    "example": "The community was resilient after the natural disaster.",
+    "difficulty": "intermediate",
+    "category": "adjectives",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word_007",
+    "word": "pragmatic",
+    "pronunciation": "/praɡˈmadik/",
+    "definition": "Dealing with things sensibly and realistically",
+    "example": "She took a pragmatic approach to solving the budget problem.",
+    "difficulty": "intermediate",
+    "category": "adjectives",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word_008",
+    "word": "ambiguous",
+    "pronunciation": "/amˈbiɡyo͞oəs/",
+    "definition": "Open to more than one interpretation; having a double meaning",
+    "example": "The politician's statement was deliberately ambiguous.",
+    "difficulty": "intermediate",
+    "category": "adjectives",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word_009",
+    "word": "innovative",
+    "pronunciation": "/ˈinəˌvādiv/",
+    "definition": "Featuring new methods; advanced and original",
+    "example": "The company's innovative approach to marketing was very successful.",
+    "difficulty": "beginner",
+    "category": "adjectives",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word_010",
+    "word": "collaborate",
+    "pronunciation": "/kəˈlabəˌrāt/",
+    "definition": "Work jointly on an activity, especially to produce something",
+    "example": "The two companies decided to collaborate on the new project.",
+    "difficulty": "beginner",
+    "category": "verbs",
+    "partOfSpeech": "verb"
+  }
+]
